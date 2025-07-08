@@ -30,7 +30,7 @@ Feel free to fork the repository, suggest improvements, or raise issues for feat
 ## 📬 Contact
 Created by **Vishvjeet Singh**  
 📧 vishvjeet771@gmail.com  
-🔗 [LinkedIn]((https://www.linkedin.com/in/vishvjeets/))
+🔗 [LinkedIn](https://www.linkedin.com/in/vishvjeets/)
 
 ---
 *This project is for learning and demonstration purposes only.*
