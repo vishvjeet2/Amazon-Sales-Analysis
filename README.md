@@ -21,8 +21,9 @@ This project is a dynamic and interactive Power BI dashboard designed to analyze
 To demonstrate the ability to turn raw data into meaningful business insights using Power BI, and to showcase practical data visualization skills.
 
 ## 📁 File Structure
-- `Amazon_Sales_Dashboard.pbix` – Main Power BI dashboard file
-- `sales_data.xlsx` – Source dataset used for analysis
+- `amazon dashboard.pbix` – Main Power BI dashboard file
+- `Amazon Sale Report.xlsx` – Source dataset used for analysis
+- `amazon-fashion.zip` - source dataset used for analysis
 
 ## 🤝 Contributions
 Feel free to fork the repository, suggest improvements, or raise issues for feature requests.
